@@ -24,7 +24,7 @@
     "nodejs-websocket": "^1.7.2",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "qcloudsms_js": "^0.1.1",
     "request": "^2.88.0",
     "superagent": "^5.1.0"
